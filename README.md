@@ -19,4 +19,4 @@ Please fork this repository and then issue Pull Request
 
 ## Copyright
 
-2020 Git.Training
+2020 Git.Training. All right reserved.
